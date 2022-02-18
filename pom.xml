@@ -9,14 +9,17 @@
     <version>2.6.3</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
+
   <groupId>com.onedriveapp.app</groupId>
   <artifactId>onedriveapp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>onedriveapp</name>
   <description>onedriveapp</description>
   <properties>
+
     <java.version>11</java.version>
   </properties>
+
   <dependencies>
     <dependency>
       <groupId>org.springframework.boot</groupId>
